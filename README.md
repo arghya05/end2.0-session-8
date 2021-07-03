@@ -10,7 +10,7 @@ We aim to refactor the (repo)[https://github.com/bentrevett/pytorch-seq2seq] (as
 
 # Solution
 
-***Please refer to the refactored code link to go to the code in colab***
+***Please refer to the github code***
 
 |
 # Key Functions and steps
