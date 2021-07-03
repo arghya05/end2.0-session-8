@@ -12,10 +12,7 @@ We aim to refactor the (repo)[https://github.com/bentrevett/pytorch-seq2seq] (as
 
 ***Please refer to the refactored code link to go to the code in colab***
 
-| Old Repo Link | Refactored Code Colab Link     | Description                |
-| :-------- | :------- | :------------------------- |
-| [Repo - 2](https://github.com/bentrevett/pytorch-seq2seq/blob/master/2%20-%20Learning%20Phrase%20Representations%20using%20RNN%20Encoder-***Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation*** |
-| [Repo - 3](https://github.com/bentrevett/pytorch-seq2seq/blob/master/3%20-%20Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate.ipynb) 
+|
 # Key Functions and steps
 
 - ***get_tokenizer*** : Takes tokenizer function and language as input and generate tokenizer function for a string sentence
